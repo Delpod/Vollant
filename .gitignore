@@ -1,0 +1,10 @@
+.codelite/Vollant.session
+.codelite/Vollant.tags
+.codelite/
+Vollant.txt
+Release/
+v.mk
+Debug/
+v.txt
+*.workspace
+*.project

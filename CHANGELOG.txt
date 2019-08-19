@@ -1,0 +1,9 @@
+1.0.1
++ Added new sound, because of generosity of Andreas Gruber
++ Added outline to texts
+* Changed texts a little
+* Additional information at the exit screen
+* Fixed camera a little if you skip flying, not very much, but a little
+
+1.0
+  Initial release
